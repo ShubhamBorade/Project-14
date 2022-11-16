@@ -1,8 +1,8 @@
-# My 14th Project
+# Dance Home Page
 
 > i have learnt basics of HTML and CSS in this project.
 
-> it took me around 1 and half hours to complete this project.
+> it took me around 4 hours to complete this project.
 
 ### Tools Used:
 
@@ -18,4 +18,4 @@
 
 - > Sample output
 
-![Image](./14.PNG)
+![Dance Home Page](https://user-images.githubusercontent.com/67215417/202188182-13216ba8-f6d9-4eb5-a5a4-e5a6113e6c56.png)
